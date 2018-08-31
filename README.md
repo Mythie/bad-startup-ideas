@@ -10,3 +10,6 @@ Uber Pool is an innovative new service bringing the classic Australian backyard 
 #### Chainbelt Automated Pet Feeder
 If your pet is too smart and will simply overeat with the self-refilling Pet Feeders currently on the market look no further than this solution. The chainbelt automated pet feeder will dispense 1 cup of your pets food on a schedule set by you.
 ![Mockup](https://s3-ap-southeast-2.amazonaws.com/lucasjamessmith.me/belt_operated_automated_pet_feeder.png)
+
+#### UberLollies
+Much like UberEat but for lollies.
