@@ -14,4 +14,7 @@ If your pet is too smart and will simply overeat with the self-refilling Pet Fee
 #### UberLollies
 Much like UberEat but for lollies.
 
+#### Dockite
+Find a [CMS](https://github.com/birkir/prime) written in React and convert it to Vue.
+
 #### Updato
